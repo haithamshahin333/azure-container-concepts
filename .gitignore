@@ -6,3 +6,6 @@
 
 # ignore container-deployment.yaml file since it may have serivce principal credentials
 **/container-deployment.yaml
+
+# ignore deployment.yaml file
+**/deployment.yaml
