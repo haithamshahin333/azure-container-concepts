@@ -4,6 +4,7 @@
 
 1. [Tutorial: Build and run a custom image in Azure App Service - Azure App Service | Microsoft Docs](https://docs.microsoft.com/en-us/azure/app-service/tutorial-custom-container?pivots=container-linux)
 2. [Azure security baseline for Azure Kubernetes Service | Microsoft Docs](https://docs.microsoft.com/en-us/security/benchmark/azure/baselines/aks-security-baseline)
+3. [AKS and AKV for Secrets](https://docs.microsoft.com/en-us/azure/aks/csi-secrets-store-driver)
 
 ## Components Required
 
