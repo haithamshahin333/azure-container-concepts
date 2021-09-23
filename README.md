@@ -6,6 +6,10 @@
 2. [Azure security baseline for Azure Kubernetes Service | Microsoft Docs](https://docs.microsoft.com/en-us/security/benchmark/azure/baselines/aks-security-baseline)
 3. [AKS and AKV for Secrets](https://docs.microsoft.com/en-us/azure/aks/csi-secrets-store-driver)
 
+## Next Steps
+
+There is an issue created to include a Pod Identity example talking to Key Vault. Will update repo soon with this example!
+
 ## Components Required
 
 1. AZ CLI
